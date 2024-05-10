@@ -100,6 +100,9 @@ GND is the ground pin.
 
 ## STM 32 CUBE PROGRAM :
 ```
+NAME: Prabha C
+REG NO : 212222110032
+
 #include "main.h"
 #include "stdio.h"
 uint32_t adc_val;
